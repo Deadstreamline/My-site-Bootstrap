@@ -21,7 +21,7 @@ h5{
 }
 .title-heading-skills{
   font-size: 3rem;
-  padding: 1% 15%;
+  padding: 5% 15%;
 }
 .heading-h1-hobbies{
   padding-top: 0;
@@ -101,6 +101,14 @@ align-items: center;
   background-color:#333333;
   width: 100%;
 }
+.contactMe{
+  margin-top: 100px;
+}
+@media only screen and (min-width: 850px) {
+       .contactMe{
+         margin-top: 0;
+       }
+   }
 
 /* Section 3 Clock */
 
